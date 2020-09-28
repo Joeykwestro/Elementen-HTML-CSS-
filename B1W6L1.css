@@ -1,1 +1,10 @@
-
+p {
+	width: 300px;
+	height: 200px;
+	padding: 40px;
+	margin: 40px;
+	border: 20px dashed;
+	border-color: red;
+	background-color: #EEE9D6;
+	font-size: 20px;
+}
