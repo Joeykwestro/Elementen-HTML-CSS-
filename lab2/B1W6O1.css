@@ -1,0 +1,44 @@
+div {
+	margin: auto;
+	max-width: 870px;
+}
+
+h1 {
+	font-size: 36px;
+}
+
+h2, h3 {
+	font-size: 32px;
+}
+
+.zin1 {
+	font-size: 24px;
+}
+
+li {
+	font-size: 20px;
+}
+
+.tip {
+	font-size: 20px;
+	border-radius: 4px;
+	background-color: #def6ed;
+}
+
+li.voorgerecht {
+	font-size: 25px;
+	text-decoration: none
+	color: black;
+}
+
+li.gehaktbrood {
+	font-size: 25px;
+	text-decoration: none
+	color: black;
+}
+
+li.nagerecht {
+	font-size: 25px;
+	text-decoration: none
+	color: black;
+}
