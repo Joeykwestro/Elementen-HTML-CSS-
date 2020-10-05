@@ -19,3 +19,9 @@ div {
 .home {
 	text-decoration: none;
 }
+
+nav {
+	text-align: center;
+	position: relative;
+	top: 250px;
+}
